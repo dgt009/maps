@@ -3,65 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.4449462890625,
-              59.86136748351594
-            ],
-            [
-              -0.45593261718749994,
-              59.25745766248799
-            ],
-            [
-              -4.031982421875,
-              59.34719533619743
-            ],
-            [
-              -3.9660644531249996,
-              59.86412545369721
-            ],
-            [
-              -0.4449462890625,
-              59.86136748351594
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -2.2412109375,
-              59.00379886353548
-            ],
-            [
-              -2.021484375,
-              59.0405546167585
-            ],
-            [
-              -2.054443359375,
-              58.96983560365735
-            ],
-            [
-              -2.2412109375,
-              59.00379886353548
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "North Orkney",
+        "id": 2
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -92,7 +42,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Pentland Firth",
+        "id": 3
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -123,7 +81,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Inner Seas",
+        "id": 10
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -162,7 +128,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Norther Atlantic",
+        "id": 11
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
