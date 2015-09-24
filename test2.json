@@ -167,7 +167,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "kiel canal",
+        "id" : 100
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -199,53 +207,6 @@
             [
               9.0472412109375,
               53.90110181472825
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9.188690185546875,
-              53.889772644862695
-            ],
-            [
-              9.6734619140625,
-              54.25880719007081
-            ],
-            [
-              10.052490234375,
-              54.33894653462054
-            ],
-            [
-              10.14312744140625,
-              54.36295792873051
-            ],
-            [
-              10.137634277343748,
-              54.37975755772719
-            ],
-            [
-              9.75311279296875,
-              54.36455818952145
-            ],
-            [
-              9.28619384765625,
-              54.131868892085414
-            ],
-            [
-              9.102859497070312,
-              53.89422375647324
-            ],
-            [
-              9.188690185546875,
-              53.889772644862695
             ]
           ]
         ]
@@ -465,7 +426,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name":"Lillebelt",
+        "id":202
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -553,7 +522,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Irbe Strait",
+        "name": "Irbe Strait",
         "id": 300
       },
       "geometry": {
@@ -756,8 +725,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Gibraltar",
-        "id ": 1000
+        "name": "Gibraltar",
+        "id": 1000
       },
       "geometry": {
         "type": "Polygon",
@@ -795,7 +764,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Panama Canal",
+        "name": "Panama Canal",
         "id": 2000
       },
       "geometry": {
@@ -1341,7 +1310,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Florida Strait",
+        "name": "Florida Strait",
         "id": 600
       },
       "geometry": {
@@ -2381,7 +2350,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "South of Sabang",
+        "name": "South of Sabang",
         "id": 111
       },
       "geometry": {
@@ -2629,7 +2598,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name":"Sibutu Passage",
+        "id":130
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2745,7 +2722,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "San Bernadino Strait",
-        "id ": 140
+        "id": 140
       },
       "geometry": {
         "type": "Polygon",
@@ -2834,7 +2811,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Mindoro Strait",
+        "name": "Mindoro Strait",
         "id": 160
       },
       "geometry": {
@@ -2994,7 +2971,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Luzon Strait",
+        "name": "Luzon Strait",
         "id": 180
       },
       "geometry": {
@@ -3072,7 +3049,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "Korean Strait",
+        "name": "Korean Strait",
         "id": 192
       },
       "geometry": {
