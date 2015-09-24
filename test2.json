@@ -259,7 +259,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "skaw"
+        "name": "skaw",
+        "id" : 101
       },
       "geometry": {
         "type": "Polygon",
@@ -313,7 +314,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "Limfjorden"
+        "name": "Limfjorden",
+        "id" : 102
       },
       "geometry": {
         "type": "Polygon",
