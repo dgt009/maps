@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name ": "Zhoushan Longshan Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13103,
+          29.77456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#070404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NASCO Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.951365,
+          30.087146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "HUARUN DADONG SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536763,
+          31.554549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ZHANGJIAGANG JIU SHENG SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29789,
+          31.952454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0e0909",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NASCO Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.033108,
+          30.166254
+        ]
+      }
+    }
+  ]
+}
