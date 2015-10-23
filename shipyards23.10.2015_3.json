@@ -1,0 +1,6216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name ": "Zhoushan Longshan Shipyard",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13103,
+          29.77456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#070404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NASCO Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.951365,
+          30.087146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "HUARUN DADONG SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536763,
+          31.554549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ZHANGJIAGANG JIU SHENG SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29789,
+          31.952454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0e0909",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NASCO Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.033108,
+          30.166254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0b0404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CHENGXI SHIPYARD GUANGZHOU (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67916,
+          22.627103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#070000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Guangdong Shipyard (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.470596,
+          23.088119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0a0505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "YIU LIAN DOCKYARDS, SHEKOU (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.841809,
+          22.50094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0d0606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "FUJIAN HUADONG SHIPYARD (MID-SOUTH CHINA)\t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.696128,
+          26.462678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Zhoushan Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.086989,
+          29.781882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#020202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Haizhou Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.076238,
+          30.286705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "China Shipping Industry Boluomiao Shipyard (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.48037,
+          23.084714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ZHOUSHAN IMC-YY SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.274004,
+          29.94244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0a0505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "China Shipping Industry Lixin Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.556549,
+          31.334449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#050202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "China Shipping Industry Changxing Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.690451,
+          31.376977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#020202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Shanghai Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534031,
+          31.243614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Nantong Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.850042,
+          31.978624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0c0303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CHENGXI SHIPYARD, XINRONG (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.282414,
+          31.955803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CHENGXI SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.241603,
+          31.926159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0b0404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Lianyungang Shipyard (MID-NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.380962,
+          34.750672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0f0c0c",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "QINGDAO BEIHAI SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.317777,
+          36.093361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "DALIAN DAEYANG SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.845039,
+          38.992505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0a0a0a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Dalian Shipyard (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.711158,
+          39.015063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#080303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SHANHAIGUAN SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.832961,
+          40.048643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#060101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "PALUMBO (ITALY / MALTA)NAPLES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.273429,
+          40.84482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "PALUMBO (ITALY / MALTA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56899,
+          38.192053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "PALUMBO (ITALY / MALTA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.516373,
+          35.881418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0d0606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "NAVAL SHIPYARD GDYNIA (POLAND)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.534848,
+          54.539353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#060606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SANTIERUL NAVAL CONSTANTA (ROMANIA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.640675,
+          44.16647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#080303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "TOSMARE SHIPYARD (LATVIA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.039201,
+          56.543634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#060606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "RIGA SHIPYARD (LATVIA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12567,
+          57.030035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#040404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ASTILLEROS CERNAVAL (SPAIN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.380502,
+          36.173028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#040404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CL MARINE (TRINIDAD & TOBAGO)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.648033,
+          10.679944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0b0404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Algiers (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05478,
+          29.949792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0d0606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Amelia (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.112998,
+          29.641559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0a0101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Fourchon (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.215177,
+          29.130363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#030000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Texas City (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.893217,
+          29.370646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#070000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Larose (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.389765,
+          29.604072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0d0606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Morgan City (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.111117,
+          29.649079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#060101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Quick Repair (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.083502,
+          29.904882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#050202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bollinger Shipyards, Lockport Repair (USA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.491616,
+          29.614532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#090202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "DAKARNAVE (SENEGAL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.429724,
+          14.692289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciramar Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.512142,
+          18.217163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CL Marine Limited (CLM) Caribbean Dockyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.64420500000001,
+          10.680921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Besiktas Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4946,
+          40.723779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70a06",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Durban Drydocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.992346,
+          -29.885602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f10505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cape Town Docks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.418761,
+          -33.907421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blrt Grupp Tallinn Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.650402,
+          59.465707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tricontinental Oil Services LTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.054617,
+          4.770709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blrt Grupp Turku Repair Yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.029433,
+          60.451536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f30202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Western India Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.861084,
+          15.390136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Western Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.168337,
+          55.651248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mumbai Drydocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.861328,
+          18.968637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80a0a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santierul Naval Constanta Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.642516000000004,
+          44.164428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f20404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Western Marine shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.837982,
+          18.934217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0a0a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Euro - Cynk Gdynia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.520546,
+          54.533235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb0303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ASL Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.752995,
+          1.297821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Battam Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82560700000002,
+          1.264698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0a0a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Adriatic Shipyard Bijela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653723,
+          42.450101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80a0a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Daishan Haizou Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21466100000002,
+          30.232968000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Odessos Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.899437,
+          43.189658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f50909",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Astilleros Cernaval Malaga Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.422941,
+          36.711022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ee0404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Astilleros Cernaval Algeciras Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.443404,
+          36.118828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f30202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Astilleros Ria De Aviles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.923777,
+          43.592079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90909",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huarun Dadong Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49780300000002,
+          31.592574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f40101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dalian Daeyang Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68457,
+          38.925229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Desan Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.55484,
+          41.030679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fc0202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sjsco Src Sevmorsudoremont Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.435001,
+          44.57561200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vinashin Shaigon Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.281006,
+          12.490214000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fc0606",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bason Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70969,
+          10.78407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f90505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yiu Lian Dockyards (Shekou)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.961182,
+          22.482106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f40101",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CIC (Bolumiao) Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.46817,
+          23.089838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb0707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Guangdong Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.45993,
+          23.101207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fe0808",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Dalian Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.376953,
+          38.822591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb0707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Lianyungang Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.619141,
+          34.669359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Nantong Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91552700000001,
+          31.914868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f70707",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CIC (Shangai Changxing) Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.728516,
+          31.372399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80202",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Shanghai Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.651611,
+          31.320794000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb0303",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CIC (Lixin) Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49231,
+          31.128199000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f50000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COSCO Zhoushan Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.228394,
+          29.978728999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fe0404",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zhoushan Longshan Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.28332500000002,
+          29.950174999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0505",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yardgem Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.281161,
+          40.835616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "SHANHAIGUAN SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.81805324554443,
+              39.987445545498005
+            ],
+            [
+              119.82221603393553,
+              39.977712045208676
+            ],
+            [
+              119.82255935668945,
+              39.97626505516539
+            ],
+            [
+              119.82324600219727,
+              39.974785147294
+            ],
+            [
+              119.82337474822998,
+              39.9741931751724
+            ],
+            [
+              119.83178615570068,
+              39.976857009340854
+            ],
+            [
+              119.83899593353271,
+              39.98807028362905
+            ],
+            [
+              119.83444690704346,
+              39.99070069729598
+            ],
+            [
+              119.82114315032959,
+              39.99070069729598
+            ],
+            [
+              119.81762409210204,
+              39.989549903780365
+            ],
+            [
+              119.81805324554443,
+              39.987445545498005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Dalian Shipyard (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.6676616668701,
+              39.01825009575255
+            ],
+            [
+              121.66482925415039,
+              39.0157826794187
+            ],
+            [
+              121.66761875152586,
+              39.01294837873495
+            ],
+            [
+              121.6686487197876,
+              39.01154785881826
+            ],
+            [
+              121.67032241821288,
+              39.00984719020561
+            ],
+            [
+              121.67577266693117,
+              39.00554531647734
+            ],
+            [
+              121.67924880981445,
+              39.003410956445684
+            ],
+            [
+              121.68680191040038,
+              39.003177506910475
+            ],
+            [
+              121.69135093688963,
+              39.005378571918776
+            ],
+            [
+              121.69607162475585,
+              39.016983054876086
+            ],
+            [
+              121.69589996337889,
+              39.01998390437055
+            ],
+            [
+              121.6676616668701,
+              39.01825009575255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "DALIAN DAEYANG SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.83204889297485,
+              38.97010326625458
+            ],
+            [
+              121.8319845199585,
+              38.9665330598272
+            ],
+            [
+              121.82621240615845,
+              38.96613265162267
+            ],
+            [
+              121.82775735855103,
+              38.963296362048084
+            ],
+            [
+              121.83687686920167,
+              38.963479890103685
+            ],
+            [
+              121.8372416496277,
+              38.9701866801413
+            ],
+            [
+              121.83204889297485,
+              38.97010326625458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "DALIAN SHIPBUILDING INDUSTRY CO.,LTD(CSIC)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.64916515350342,
+              38.93898303513861
+            ],
+            [
+              121.64453029632568,
+              38.93006995387398
+            ],
+            [
+              121.63225650787352,
+              38.931438702072874
+            ],
+            [
+              121.61616325378418,
+              38.92583000524595
+            ],
+            [
+              121.60315990447998,
+              38.926464344389935
+            ],
+            [
+              121.60015583038331,
+              38.931972840546436
+            ],
+            [
+              121.59689426422119,
+              38.940785544599144
+            ],
+            [
+              121.59659385681151,
+              38.94719409602074
+            ],
+            [
+              121.60895347595215,
+              38.949597153452835
+            ],
+            [
+              121.61478996276855,
+              38.949597153452835
+            ],
+            [
+              121.61946773529053,
+              38.93801500188717
+            ],
+            [
+              121.64324283599854,
+              38.94505797657956
+            ],
+            [
+              121.64916515350342,
+              38.93898303513861
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0e1af2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "DALIAN SHIPBUILDING INDUSTRY CO.,LTD(CSIC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60938262939453,
+          38.94338908847991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "QINGDAO BEIHAI SHIPYARD (NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.24227142333984,
+              35.97786726504047
+            ],
+            [
+              120.25154113769531,
+              35.98293753388263
+            ],
+            [
+              120.24991035461427,
+              35.99016036794371
+            ],
+            [
+              120.25154113769531,
+              36.00036843822472
+            ],
+            [
+              120.25609016418457,
+              36.00328478706707
+            ],
+            [
+              120.2643299102783,
+              36.002868172407354
+            ],
+            [
+              120.28177499771117,
+              36.00043787635533
+            ],
+            [
+              120.28419971466064,
+              35.992590980698225
+            ],
+            [
+              120.28029441833496,
+              35.98252081174413
+            ],
+            [
+              120.24579048156737,
+              35.97161580029862
+            ],
+            [
+              120.24227142333984,
+              35.97786726504047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Lianyungang Shipyard (MID-NORTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.37224864959717,
+              34.74937039972596
+            ],
+            [
+              119.37357902526855,
+              34.753213817063106
+            ],
+            [
+              119.37752723693848,
+              34.75582300763091
+            ],
+            [
+              119.3812608718872,
+              34.75617559462766
+            ],
+            [
+              119.39353466033934,
+              34.75391901183281
+            ],
+            [
+              119.394907951355,
+              34.74813623695599
+            ],
+            [
+              119.39271926879881,
+              34.742811494750036
+            ],
+            [
+              119.37190532684328,
+              34.747113630976564
+            ],
+            [
+              119.37224864959717,
+              34.74937039972596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CHENGXI SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.23866653442381,
+              31.92951040423193
+            ],
+            [
+              120.24518966674803,
+              31.92331841717228
+            ],
+            [
+              120.2446746826172,
+              31.920112989509068
+            ],
+            [
+              120.19901275634764,
+              31.914867503276223
+            ],
+            [
+              120.2003002166748,
+              31.926523733115935
+            ],
+            [
+              120.23866653442381,
+              31.92951040423193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CHENGXI SHIPYARD, XINRONG (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.40045738220213,
+              32.040312775778766
+            ],
+            [
+              120.40732383728027,
+              32.03769350314846
+            ],
+            [
+              120.44500350952147,
+              32.06199165469082
+            ],
+            [
+              120.43959617614746,
+              32.06581038813407
+            ],
+            [
+              120.43498277664183,
+              32.06937439549789
+            ],
+            [
+              120.42526245117186,
+              32.0641738076096
+            ],
+            [
+              120.42856693267821,
+              32.05926389033522
+            ],
+            [
+              120.41474819183348,
+              32.053262522449174
+            ],
+            [
+              120.4086971282959,
+              32.05151659605919
+            ],
+            [
+              120.39938449859619,
+              32.04151325069053
+            ],
+            [
+              120.40045738220213,
+              32.040312775778766
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "ZHANGJIAGANG JIU SHENG SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.36391496658324,
+              31.966107454405183
+            ],
+            [
+              120.36558866500854,
+              31.959845112650992
+            ],
+            [
+              120.37003040313719,
+              31.960646133671823
+            ],
+            [
+              120.37745475769042,
+              31.96448729647569
+            ],
+            [
+              120.37550210952759,
+              31.968619552864403
+            ],
+            [
+              120.36391496658324,
+              31.966107454405183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Nantong Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.82798004150389,
+              32.00509184296872
+            ],
+            [
+              120.82111358642578,
+              32.000943032049335
+            ],
+            [
+              120.82313060760498,
+              31.997558336724925
+            ],
+            [
+              120.83458900451662,
+              31.987876690529404
+            ],
+            [
+              120.84136962890625,
+              31.98387270357204
+            ],
+            [
+              120.8464765548706,
+              31.993627566015288
+            ],
+            [
+              120.82798004150389,
+              32.00509184296872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Huarun Dadong Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.44510269165039,
+              31.600249878569745
+            ],
+            [
+              121.43943786621092,
+              31.59381649444569
+            ],
+            [
+              121.44999504089354,
+              31.589502954000135
+            ],
+            [
+              121.46690368652344,
+              31.583361297605116
+            ],
+            [
+              121.46879196166992,
+              31.588991164761765
+            ],
+            [
+              121.44510269165039,
+              31.600249878569745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "China Shipping Industry Changxing Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.68980598449707,
+              31.379214119640256
+            ],
+            [
+              121.68534278869629,
+              31.37562347455115
+            ],
+            [
+              121.70079231262207,
+              31.36851505814437
+            ],
+            [
+              121.71624183654785,
+              31.361332813056627
+            ],
+            [
+              121.71813011169434,
+              31.367049338412972
+            ],
+            [
+              121.68980598449707,
+              31.379214119640256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#050bf8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SHANGHAI JIANGNAN CHANGXING SHIPBUILDING(CSSC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.73864364624023,
+          31.357155132373318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "SHANGHAI JIANGNAN CHANGXING SHIPBUILDING(CSSC)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.72937393188477,
+              31.37203269223503
+            ],
+            [
+              121.71718597412111,
+              31.361039648538988
+            ],
+            [
+              121.74696922302246,
+              31.336483876155512
+            ],
+            [
+              121.75872802734375,
+              31.351511304061084
+            ],
+            [
+              121.72937393188477,
+              31.37203269223503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Shanghai Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.45771980285645,
+              31.11930875072254
+            ],
+            [
+              121.46132469177245,
+              31.118059598678308
+            ],
+            [
+              121.45797729492186,
+              31.112989342189096
+            ],
+            [
+              121.45394325256346,
+              31.11379766209421
+            ],
+            [
+              121.45771980285645,
+              31.11930875072254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CIC Lixin Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.52475357055664,
+              31.350998211963446
+            ],
+            [
+              121.52329444885254,
+              31.34938561857544
+            ],
+            [
+              121.53144836425781,
+              31.34630695442012
+            ],
+            [
+              121.53222084045409,
+              31.348286107230773
+            ],
+            [
+              121.52475357055664,
+              31.350998211963446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CIC Lixin Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.56037330627441,
+              31.30972178318152
+            ],
+            [
+              121.5577983856201,
+              31.30972178318152
+            ],
+            [
+              121.55934333801271,
+              31.302021690136105
+            ],
+            [
+              121.56097412109375,
+              31.302828396061393
+            ],
+            [
+              121.56037330627441,
+              31.30972178318152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CIC Lixin Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.46613121032715,
+              31.128934017911032
+            ],
+            [
+              121.46690368652344,
+              31.125627738508776
+            ],
+            [
+              121.46595954895021,
+              31.12026397354547
+            ],
+            [
+              121.46364212036133,
+              31.116957392045173
+            ],
+            [
+              121.46716117858885,
+              31.11629606192159
+            ],
+            [
+              121.46870613098145,
+              31.128052354669382
+            ],
+            [
+              121.46613121032715,
+              31.128934017911032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Haizhou Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.07806110382079,
+              30.290236758855528
+            ],
+            [
+              122.07243919372559,
+              30.287642762120278
+            ],
+            [
+              122.07153797149657,
+              30.286271621849316
+            ],
+            [
+              122.0838975906372,
+              30.281083350090277
+            ],
+            [
+              122.09299564361572,
+              30.278674416373867
+            ],
+            [
+              122.09797382354738,
+              30.277191966232753
+            ],
+            [
+              122.10200786590576,
+              30.28478928648526
+            ],
+            [
+              122.07806110382079,
+              30.290236758855528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "NASCO Shipyard, Zhoushan (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.94848895072937,
+              30.08535060917894
+            ],
+            [
+              121.94981932640076,
+              30.084728616530402
+            ],
+            [
+              121.95088148117064,
+              30.085304191952165
+            ],
+            [
+              121.95305943489073,
+              30.087355812575677
+            ],
+            [
+              121.95435762405396,
+              30.088674025991526
+            ],
+            [
+              121.95451855659485,
+              30.091477491870492
+            ],
+            [
+              121.95496916770935,
+              30.093111263140287
+            ],
+            [
+              121.9544219970703,
+              30.09616522907692
+            ],
+            [
+              121.94766283035277,
+              30.09434585647487
+            ],
+            [
+              121.94848895072937,
+              30.08535060917894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Zhoushan Zhongtian Heavy Industry Co.,Ltd (ZTHI) "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0576763153076,
+              30.19703223791941
+            ],
+            [
+              122.06282615661621,
+              30.193693922139037
+            ],
+            [
+              122.06411361694336,
+              30.19217309631452
+            ],
+            [
+              122.06299781799315,
+              30.18701695104525
+            ],
+            [
+              122.06020832061768,
+              30.181044387831786
+            ],
+            [
+              122.0556592941284,
+              30.182008925663094
+            ],
+            [
+              122.05359935760498,
+              30.194176130300892
+            ],
+            [
+              122.0576763153076,
+              30.19703223791941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Zhoushan Shipyard (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.07698822021484,
+              29.778160298154642
+            ],
+            [
+              122.08093643188477,
+              29.773764869243003
+            ],
+            [
+              122.08981990814209,
+              29.77599985720507
+            ],
+            [
+              122.09960460662842,
+              29.77551561404611
+            ],
+            [
+              122.10750102996826,
+              29.781773345232843
+            ],
+            [
+              122.11059093475342,
+              29.78587045735029
+            ],
+            [
+              122.11445331573488,
+              29.785572491213976
+            ],
+            [
+              122.12453842163086,
+              29.792797919974955
+            ],
+            [
+              122.12325096130371,
+              29.795553873922895
+            ],
+            [
+              122.11183547973634,
+              29.79328207954265
+            ],
+            [
+              122.09900379180908,
+              29.78497655628058
+            ],
+            [
+              122.07784652709961,
+              29.785200032296352
+            ],
+            [
+              122.07698822021484,
+              29.778160298154642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": " Ningbo Donghe Shipyard (DOSCO)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.87273263931276,
+              29.16669282248138
+            ],
+            [
+              121.87158465385437,
+              29.16528754101292
+            ],
+            [
+              121.86998605728148,
+              29.163554334043177
+            ],
+            [
+              121.86959981918335,
+              29.16258934667204
+            ],
+            [
+              121.86891317367554,
+              29.160977891232605
+            ],
+            [
+              121.86941742897032,
+              29.1602845828557
+            ],
+            [
+              121.87384843826293,
+              29.161474447057998
+            ],
+            [
+              121.87570452690123,
+              29.163882240308588
+            ],
+            [
+              121.87561869621275,
+              29.166102606607577
+            ],
+            [
+              121.87293648719789,
+              29.167039455619232
+            ],
+            [
+              121.87273263931276,
+              29.16669282248138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#061bf6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": " Ningbo Donghe Shipyard (DOSCO)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.87305450439455,
+          29.164828478231662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "ZHOUSHAN IMC-YY SHIPYARD (CENTRAL CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.25427150726317,
+              29.946140465434993
+            ],
+            [
+              122.25210428237914,
+              29.9406925771014
+            ],
+            [
+              122.26588010787962,
+              29.936341489524544
+            ],
+            [
+              122.2681975364685,
+              29.936062567164065
+            ],
+            [
+              122.2687554359436,
+              29.9408785167749
+            ],
+            [
+              122.25427150726317,
+              29.946140465434993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Zhejiang Ouhua Shipbuilding Co., Ltd. "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.25038766860962,
+              29.952517648409884
+            ],
+            [
+              122.24824190139769,
+              29.949468550721875
+            ],
+            [
+              122.24418640136719,
+              29.948966556163473
+            ],
+            [
+              122.24289894104004,
+              29.948445966537367
+            ],
+            [
+              122.24236249923707,
+              29.944950508470825
+            ],
+            [
+              122.24528074264526,
+              29.944745983183804
+            ],
+            [
+              122.24498033523561,
+              29.943091172212487
+            ],
+            [
+              122.24465847015382,
+              29.941715241004605
+            ],
+            [
+              122.24995851516724,
+              29.9408785167749
+            ],
+            [
+              122.25238323211669,
+              29.946698252860934
+            ],
+            [
+              122.25515127182007,
+              29.94627061611421
+            ],
+            [
+              122.25613832473753,
+              29.948724854175985
+            ],
+            [
+              122.25038766860962,
+              29.952517648409884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0914f8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zhejiang Ouhua Shipbuilding Co., Ltd. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.24766254425049,
+          29.946679659997123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Zhoushan Longshan Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0767307281494,
+              29.78441786405848
+            ],
+            [
+              122.07595825195312,
+              29.775850859559412
+            ],
+            [
+              122.07372665405273,
+              29.77227484955823
+            ],
+            [
+              122.06952095031737,
+              29.76862420764766
+            ],
+            [
+              122.0657444000244,
+              29.766761583985765
+            ],
+            [
+              122.05793380737305,
+              29.77227484955823
+            ],
+            [
+              122.07226753234862,
+              29.783523950017628
+            ],
+            [
+              122.0767307281494,
+              29.78441786405848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Zhejiang Dongpeng Ship Building And Repairing Co.,Ltd."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.13202714920044,
+              29.776065043605346
+            ],
+            [
+              122.13159799575806,
+              29.775320053645064
+            ],
+            [
+              122.12875485420228,
+              29.775850859559412
+            ],
+            [
+              122.12819695472717,
+              29.775171054987943
+            ],
+            [
+              122.12968826293945,
+              29.77230278763126
+            ],
+            [
+              122.133024930954,
+              29.77287086009227
+            ],
+            [
+              122.1327781677246,
+              29.776297851831366
+            ],
+            [
+              122.13202714920044,
+              29.776065043605346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#051afd",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zhejiang Dongpeng Ship Building And Repairing Co.,Ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13001012802124,
+          29.774025620408732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "FUJIAN HUADONG SHIPYARD (MID-SOUTH CHINA)\t"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.70711708068846,
+              26.459662291356487
+            ],
+            [
+              119.70325469970702,
+              26.455512868689375
+            ],
+            [
+              119.72290992736815,
+              26.4425257462913
+            ],
+            [
+              119.72917556762695,
+              26.448827373189367
+            ],
+            [
+              119.70711708068846,
+              26.459662291356487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "YIU LIAN DOCKYARDS, SHEKOU (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.83629798889159,
+              22.50890956520524
+            ],
+            [
+              113.83698463439941,
+              22.50661007495835
+            ],
+            [
+              113.83234977722167,
+              22.50288323369632
+            ],
+            [
+              113.84273529052734,
+              22.49249512484366
+            ],
+            [
+              113.84882926940918,
+              22.498997696514852
+            ],
+            [
+              113.8388729095459,
+              22.510098941706396
+            ],
+            [
+              113.83629798889159,
+              22.50890956520524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CHENGXI SHIPYARD GUANGZHOU (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.64626884460449,
+              22.713964894684384
+            ],
+            [
+              113.63313674926758,
+              22.71356902409226
+            ],
+            [
+              113.64094734191893,
+              22.696624689806228
+            ],
+            [
+              113.65528106689453,
+              22.674768154553227
+            ],
+            [
+              113.66729736328125,
+              22.6808661616405
+            ],
+            [
+              113.64626884460449,
+              22.713964894684384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "COSCO Guangdong Shipyard (SOUTH CHINA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.4788131713867,
+              23.08881195007216
+            ],
+            [
+              113.47580909729004,
+              23.08233744425258
+            ],
+            [
+              113.48061561584473,
+              23.08146888926265
+            ],
+            [
+              113.48447799682617,
+              23.08604847963707
+            ],
+            [
+              113.4788131713867,
+              23.08881195007216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CIC Boluomiao Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.48610877990723,
+              23.08478515994374
+            ],
+            [
+              113.48310470581053,
+              23.08115304969331
+            ],
+            [
+              113.4854221343994,
+              23.079021113194262
+            ],
+            [
+              113.48859786987305,
+              23.078468383398807
+            ],
+            [
+              113.49040031433105,
+              23.08225848493991
+            ],
+            [
+              113.48610877990723,
+              23.08478515994374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Gouangzhou Wenchong Shipyard Co., Ltd"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.4528923034668,
+              23.097970474402022
+            ],
+            [
+              113.45186233520506,
+              23.091970132422553
+            ],
+            [
+              113.47512245178223,
+              23.08344286976079
+            ],
+            [
+              113.4781265258789,
+              23.090548959549295
+            ],
+            [
+              113.4528923034668,
+              23.097970474402022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0d1dfd",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gouangzhou Wenchong Shipyard Co., Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.46430778503418,
+          23.092364899997815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CIC Boluomiao Shipyard(Haizhu)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.29187393188477,
+              23.059516273509317
+            ],
+            [
+              113.2917022705078,
+              23.05540963117766
+            ],
+            [
+              113.29522132873535,
+              23.055646556256164
+            ],
+            [
+              113.29659461975098,
+              23.058489624672372
+            ],
+            [
+              113.29187393188477,
+              23.059516273509317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0003ee",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CIC Boluomiao Shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2939338684082,
+          23.056989123824533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Hyundai Vinashin Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.27658557891844,
+              12.492811428725648
+            ],
+            [
+              109.2716932296753,
+              12.489082369100656
+            ],
+            [
+              109.27950382232665,
+              12.481540286464934
+            ],
+            [
+              109.2880868911743,
+              12.486400764905273
+            ],
+            [
+              109.28821563720703,
+              12.488244370775531
+            ],
+            [
+              109.28031921386719,
+              12.49499018024932
+            ],
+            [
+              109.27658557891844,
+              12.492811428725648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bason Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.71334862709045,
+              10.78754810955707
+            ],
+            [
+              106.71455025672913,
+              10.786610116131385
+            ],
+            [
+              106.71270489692688,
+              10.784618187805501
+            ],
+            [
+              106.7116105556488,
+              10.78364856712734
+            ],
+            [
+              106.71067714691162,
+              10.782815955572657
+            ],
+            [
+              106.70980811119078,
+              10.78183578965016
+            ],
+            [
+              106.70938968658447,
+              10.780623752104708
+            ],
+            [
+              106.70862793922424,
+              10.779295774928372
+            ],
+            [
+              106.70743703842163,
+              10.779464407275595
+            ],
+            [
+              106.70795202255249,
+              10.781024252007656
+            ],
+            [
+              106.70881032943726,
+              10.783142676837173
+            ],
+            [
+              106.70934677124023,
+              10.784164995921024
+            ],
+            [
+              106.70907855033875,
+              10.786188545099497
+            ],
+            [
+              106.70973300933838,
+              10.787147618339976
+            ],
+            [
+              106.71334862709045,
+              10.78754810955707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "ASL Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74956130981445,
+              1.29876457138051
+            ],
+            [
+              103.74999046325684,
+              1.2949031797043358
+            ],
+            [
+              103.75402450561522,
+              1.294645753383246
+            ],
+            [
+              103.75728607177733,
+              1.2969625893314456
+            ],
+            [
+              103.75582695007324,
+              1.299451040394673
+            ],
+            [
+              103.74956130981445,
+              1.29876457138051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Western India Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79005908966064,
+              15.418973100301635
+            ],
+            [
+              73.78894329071044,
+              15.412436425293476
+            ],
+            [
+              73.79357814788817,
+              15.412560541290933
+            ],
+            [
+              73.79649639129639,
+              15.409871344752059
+            ],
+            [
+              73.79971504211426,
+              15.407430351618435
+            ],
+            [
+              73.80387783050537,
+              15.404865209307275
+            ],
+            [
+              73.80439281463623,
+              15.398286715857175
+            ],
+            [
+              73.81057262420654,
+              15.399734829758893
+            ],
+            [
+              73.80889892578125,
+              15.405568557928618
+            ],
+            [
+              73.81001472473143,
+              15.410243697117247
+            ],
+            [
+              73.79915714263915,
+              15.420958884891828
+            ],
+            [
+              73.79005908966064,
+              15.418973100301635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Western India Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.86312675476074,
+              22.325385540506407
+            ],
+            [
+              91.86638832092284,
+              22.323480000712248
+            ],
+            [
+              91.8683624267578,
+              22.3250679523479
+            ],
+            [
+              91.8665599822998,
+              22.327688033036058
+            ],
+            [
+              91.86312675476074,
+              22.325385540506407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#080cf8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Western Marine shipyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86501502990723,
+          22.3250679523479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Mumbai Drydocks(Indira Dock)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.84085750579834,
+              18.949885266653105
+            ],
+            [
+              72.83841133117676,
+              18.93888516041911
+            ],
+            [
+              72.84231662750244,
+              18.932877416340304
+            ],
+            [
+              72.8445053100586,
+              18.934582338649616
+            ],
+            [
+              72.84733772277832,
+              18.94850521929427
+            ],
+            [
+              72.84085750579834,
+              18.949885266653105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Durban Drydocks Dormac"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.994191169738766,
+              -29.88407639166182
+            ],
+            [
+              30.99020004272461,
+              -29.885341493594108
+            ],
+            [
+              30.99386930465698,
+              -29.888801837459376
+            ],
+            [
+              31.00030660629272,
+              -29.893359633973574
+            ],
+            [
+              31.000843048095703,
+              -29.89362007319376
+            ],
+            [
+              31.003932952880856,
+              -29.886867036338298
+            ],
+            [
+              30.994191169738766,
+              -29.88407639166182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "DAKARNAVE (SENEGAL)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -17.42955207824707,
+              14.680270999781145
+            ],
+            [
+              -17.43254542350769,
+              14.674687244943014
+            ],
+            [
+              -17.427374124526978,
+              14.672746389716899
+            ],
+            [
+              -17.42557168006897,
+              14.678724583809037
+            ],
+            [
+              -17.42955207824707,
+              14.680270999781145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Astilleros Cernaval Malaga Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.417920112609863,
+              36.71294888242419
+            ],
+            [
+              -4.423713684082031,
+              36.71215761669613
+            ],
+            [
+              -4.423177242279052,
+              36.710162214762796
+            ],
+            [
+              -4.4167399406433105,
+              36.71131473771814
+            ],
+            [
+              -4.417383670806885,
+              36.71294888242419
+            ],
+            [
+              -4.417920112609863,
+              36.71294888242419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "ASTILLEROS CERNAVAL (SPAIN)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.3836870193481445,
+              36.17510637517271
+            ],
+            [
+              -5.383622646331786,
+              36.173304971061384
+            ],
+            [
+              -5.382421016693115,
+              36.171243698246904
+            ],
+            [
+              -5.376498699188232,
+              36.17188460400584
+            ],
+            [
+              -5.37731409072876,
+              36.17560868239671
+            ],
+            [
+              -5.3836870193481445,
+              36.17510637517271
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Astilleros Ria De Aviles"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9231650829315186,
+              43.5931706400192
+            ],
+            [
+              -5.924994349479675,
+              43.59176418063712
+            ],
+            [
+              -5.924071669578552,
+              43.591025970570705
+            ],
+            [
+              -5.9229665994644165,
+              43.59185354229392
+            ],
+            [
+              -5.92188835144043,
+              43.59280931519383
+            ],
+            [
+              -5.9231650829315186,
+              43.5931706400192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "PALUMBO (ITALY / MALTA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.516485333442688,
+              35.88672927972095
+            ],
+            [
+              14.519033432006836,
+              35.88439102703051
+            ],
+            [
+              14.519205093383787,
+              35.88279158765827
+            ],
+            [
+              14.518218040466307,
+              35.88084440047783
+            ],
+            [
+              14.518046379089355,
+              35.87834080376345
+            ],
+            [
+              14.513239860534668,
+              35.878618985083854
+            ],
+            [
+              14.51388359069824,
+              35.881887542420635
+            ],
+            [
+              14.51117992401123,
+              35.88658151114852
+            ],
+            [
+              14.513540267944334,
+              35.887242121450925
+            ],
+            [
+              14.516372680664062,
+              35.88265250444723
+            ],
+            [
+              14.517102241516113,
+              35.882930670625086
+            ],
+            [
+              14.515541195869446,
+              35.88621643466972
+            ],
+            [
+              14.516485333442688,
+              35.88672927972095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "PALUMBO (ITALY / MESSINAA) REPAIR AREA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.566596984863281,
+              38.19220524681573
+            ],
+            [
+              15.569000244140625,
+              38.19129456003145
+            ],
+            [
+              15.571167469024656,
+              38.19129456003145
+            ],
+            [
+              15.571982860565186,
+              38.19301473661985
+            ],
+            [
+              15.569579601287842,
+              38.19328456455512
+            ],
+            [
+              15.567090511322021,
+              38.19363871220303
+            ],
+            [
+              15.566596984863281,
+              38.19220524681573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "PALUMBO (ITALY / MESSINAA) NEW BUILDING AREA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.567766427993774,
+              38.189844183496106
+            ],
+            [
+              15.56741237640381,
+              38.18936352908666
+            ],
+            [
+              15.569375753402708,
+              38.18798900862218
+            ],
+            [
+              15.570287704467772,
+              38.1886889210569
+            ],
+            [
+              15.567766427993774,
+              38.189844183496106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "PALUMBO (ITALY / MALTA)NAPLES"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.26301121711731,
+              40.845242366168556
+            ],
+            [
+              14.264674186706543,
+              40.84442263119368
+            ],
+            [
+              14.265908002853394,
+              40.84437393374739
+            ],
+            [
+              14.265972375869751,
+              40.842839945873486
+            ],
+            [
+              14.268332719802856,
+              40.84304285636002
+            ],
+            [
+              14.268418550491331,
+              40.841216639617436
+            ],
+            [
+              14.270017147064209,
+              40.84123287287679
+            ],
+            [
+              14.270049333572388,
+              40.84278313082592
+            ],
+            [
+              14.271851778030396,
+              40.84286429516467
+            ],
+            [
+              14.272023439407349,
+              40.8411679398155
+            ],
+            [
+              14.26950216293335,
+              40.839098165157424
+            ],
+            [
+              14.270896911621094,
+              40.83774263065232
+            ],
+            [
+              14.273847341537474,
+              40.83916310024633
+            ],
+            [
+              14.274652004241943,
+              40.84028322051745
+            ],
+            [
+              14.273643493652342,
+              40.84139520525173
+            ],
+            [
+              14.27350401878357,
+              40.84310778758449
+            ],
+            [
+              14.275091886520386,
+              40.84277907260639
+            ],
+            [
+              14.275408387184141,
+              40.84368404941431
+            ],
+            [
+              14.27547812461853,
+              40.844958300741126
+            ],
+            [
+              14.27196979522705,
+              40.84548584985153
+            ],
+            [
+              14.26301121711731,
+              40.845242366168556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Adriatic Shipyard Bijela"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.652982711791992,
+              42.45032265352888
+            ],
+            [
+              18.653132915496826,
+              42.449990163459304
+            ],
+            [
+              18.65129828453064,
+              42.448984766083115
+            ],
+            [
+              18.65179181098938,
+              42.44832768663736
+            ],
+            [
+              18.650987148284912,
+              42.44786851859616
+            ],
+            [
+              18.652124404907227,
+              42.4464197421963
+            ],
+            [
+              18.657424449920654,
+              42.44903226553494
+            ],
+            [
+              18.657724857330322,
+              42.4498318342344
+            ],
+            [
+              18.653465509414673,
+              42.450575978111566
+            ],
+            [
+              18.652982711791992,
+              42.45032265352888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Besiktas Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.45780038833618,
+              40.699080380928024
+            ],
+            [
+              29.459892511367798,
+              40.700170329524624
+            ],
+            [
+              29.463400840759277,
+              40.70222816892327
+            ],
+            [
+              29.466104507446286,
+              40.703651538425746
+            ],
+            [
+              29.466887712478634,
+              40.70528634243635
+            ],
+            [
+              29.4682502746582,
+              40.707100033262876
+            ],
+            [
+              29.468947649002075,
+              40.70825491378906
+            ],
+            [
+              29.46885108947754,
+              40.70949110173649
+            ],
+            [
+              29.46843266487122,
+              40.710442625512925
+            ],
+            [
+              29.46386218070984,
+              40.71321579246032
+            ],
+            [
+              29.464441537857052,
+              40.71399648724687
+            ],
+            [
+              29.464709758758545,
+              40.714256716808144
+            ],
+            [
+              29.467853307724,
+              40.712492015158084
+            ],
+            [
+              29.468582868576053,
+              40.71332964435351
+            ],
+            [
+              29.46940898895264,
+              40.71299622040224
+            ],
+            [
+              29.469966888427734,
+              40.71327271843125
+            ],
+            [
+              29.470911026000977,
+              40.712857970957174
+            ],
+            [
+              29.470857381820675,
+              40.71322392474486
+            ],
+            [
+              29.469012022018433,
+              40.71437056692137
+            ],
+            [
+              29.469398260116574,
+              40.714891022102556
+            ],
+            [
+              29.472466707229614,
+              40.713451628308725
+            ],
+            [
+              29.474365711212158,
+              40.71548466132665
+            ],
+            [
+              29.47452664375305,
+              40.716281593332084
+            ],
+            [
+              29.47565317153931,
+              40.716858956478774
+            ],
+            [
+              29.477659463882446,
+              40.718566620985555
+            ],
+            [
+              29.478389024734497,
+              40.71975382859048
+            ],
+            [
+              29.477380514144897,
+              40.720558840878894
+            ],
+            [
+              29.478099346160885,
+              40.72114429824649
+            ],
+            [
+              29.481564760208126,
+              40.72224201693157
+            ],
+            [
+              29.483356475830075,
+              40.72308765453646
+            ],
+            [
+              29.48567390441894,
+              40.723404765868395
+            ],
+            [
+              29.48852777481079,
+              40.72423412682422
+            ],
+            [
+              29.490276575088497,
+              40.72500656155653
+            ],
+            [
+              29.491349458694458,
+              40.725575718254326
+            ],
+            [
+              29.490845203399658,
+              40.726827845856214
+            ],
+            [
+              29.49250817298889,
+              40.727258767439
+            ],
+            [
+              29.49342012405396,
+              40.727348203644254
+            ],
+            [
+              29.49458956718445,
+              40.7254212333462
+            ],
+            [
+              29.49539422988892,
+              40.72425038870045
+            ],
+            [
+              29.496628046035767,
+              40.724665065201535
+            ],
+            [
+              29.49856996536255,
+              40.725470018092764
+            ],
+            [
+              29.49845194816589,
+              40.72838077658201
+            ],
+            [
+              29.499868154525757,
+              40.72861655870665
+            ],
+            [
+              29.50091958045959,
+              40.72947837591679
+            ],
+            [
+              29.501895904541016,
+              40.730185708117375
+            ],
+            [
+              29.50154185295105,
+              40.732827974544264
+            ],
+            [
+              29.50156331062317,
+              40.73368160742586
+            ],
+            [
+              29.503151178359985,
+              40.73358404993655
+            ],
+            [
+              29.503215551376343,
+              40.732860494092805
+            ],
+            [
+              29.505350589752197,
+              40.73285236420716
+            ],
+            [
+              29.506916999816895,
+              40.73317755885807
+            ],
+            [
+              29.50678825378418,
+              40.729502766807485
+            ],
+            [
+              29.505114555358887,
+              40.72680345398506
+            ],
+            [
+              29.49897766113281,
+              40.72306326129451
+            ],
+            [
+              29.488763809204098,
+              40.720916620993194
+            ],
+            [
+              29.4832706451416,
+              40.718997596057285
+            ],
+            [
+              29.479966163635254,
+              40.71577741296778
+            ],
+            [
+              29.473271369934082,
+              40.7091413930001
+            ],
+            [
+              29.47206974029541,
+              40.705205009852016
+            ],
+            [
+              29.46940898895264,
+              40.70130092900027
+            ],
+            [
+              29.463143348693844,
+              40.69668080437906
+            ],
+            [
+              29.461255073547363,
+              40.69428927599411
+            ],
+            [
+              29.459688663482662,
+              40.6937849291154
+            ],
+            [
+              29.45780038833618,
+              40.699080380928024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Yardgem Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.283961057662964,
+              40.854972900769795
+            ],
+            [
+              29.283896684646603,
+              40.85424255161427
+            ],
+            [
+              29.283446073532108,
+              40.853942294626016
+            ],
+            [
+              29.28378939628601,
+              40.85355277001888
+            ],
+            [
+              29.285527467727658,
+              40.85390171925296
+            ],
+            [
+              29.28581714630127,
+              40.853398582562534
+            ],
+            [
+              29.285463094711304,
+              40.85274936828384
+            ],
+            [
+              29.285087585449215,
+              40.85242475875887
+            ],
+            [
+              29.28531289100647,
+              40.85201087930799
+            ],
+            [
+              29.28670763969421,
+              40.85192161085218
+            ],
+            [
+              29.287050962448117,
+              40.85132107447789
+            ],
+            [
+              29.28681492805481,
+              40.85065560889475
+            ],
+            [
+              29.287147521972656,
+              40.85024983391754
+            ],
+            [
+              29.287061691284183,
+              40.84960058878533
+            ],
+            [
+              29.286493062973022,
+              40.84903249407621
+            ],
+            [
+              29.28681492805481,
+              40.84839946852021
+            ],
+            [
+              29.286879301071163,
+              40.848050490307365
+            ],
+            [
+              29.286257028579712,
+              40.847782668571995
+            ],
+            [
+              29.28678274154663,
+              40.84706035607122
+            ],
+            [
+              29.288660287857052,
+              40.847352528368084
+            ],
+            [
+              29.2884886264801,
+              40.84659774729998
+            ],
+            [
+              29.28908944129944,
+              40.84641107968837
+            ],
+            [
+              29.28908944129944,
+              40.845818609438204
+            ],
+            [
+              29.290398359298706,
+              40.84565628789735
+            ],
+            [
+              29.289615154266357,
+              40.845031346253045
+            ],
+            [
+              29.2875874042511,
+              40.84565628789735
+            ],
+            [
+              29.286503791809082,
+              40.84553454648077
+            ],
+            [
+              29.28381085395813,
+              40.84650847155134
+            ],
+            [
+              29.283145666122437,
+              40.84611078720987
+            ],
+            [
+              29.28431510925293,
+              40.84525048230575
+            ],
+            [
+              29.28374648094177,
+              40.84482032566562
+            ],
+            [
+              29.281890392303467,
+              40.84564817180987
+            ],
+            [
+              29.28145051002502,
+              40.84499076542304
+            ],
+            [
+              29.282072782516476,
+              40.84447132860419
+            ],
+            [
+              29.28115010261536,
+              40.8436191187544
+            ],
+            [
+              29.280989170074466,
+              40.84256398661487
+            ],
+            [
+              29.282780885696408,
+              40.84102995684901
+            ],
+            [
+              29.283156394958496,
+              40.839917965987105
+            ],
+            [
+              29.28253412246704,
+              40.83950400841957
+            ],
+            [
+              29.280484914779667,
+              40.840210169772405
+            ],
+            [
+              29.280130863189694,
+              40.839585176773824
+            ],
+            [
+              29.28125739097595,
+              40.83840822590907
+            ],
+            [
+              29.28106427192688,
+              40.83768581123542
+            ],
+            [
+              29.279680252075195,
+              40.83831082214261
+            ],
+            [
+              29.27903652191162,
+              40.837612757627845
+            ],
+            [
+              29.278328418731686,
+              40.836971505839905
+            ],
+            [
+              29.27801728248596,
+              40.83608673053109
+            ],
+            [
+              29.27757740020752,
+              40.83586756418022
+            ],
+            [
+              29.274551868438717,
+              40.837523469775945
+            ],
+            [
+              29.275485277175903,
+              40.838229652227874
+            ],
+            [
+              29.273972511291504,
+              40.84000725061372
+            ],
+            [
+              29.274841547012326,
+              40.84052672241951
+            ],
+            [
+              29.273875951766964,
+              40.842117579499124
+            ],
+            [
+              29.272019863128662,
+              40.84203641424597
+            ],
+            [
+              29.271708726882935,
+              40.84279936370162
+            ],
+            [
+              29.27409052848816,
+              40.84466611788836
+            ],
+            [
+              29.272545576095578,
+              40.84600527871871
+            ],
+            [
+              29.271687269210815,
+              40.846086439111424
+            ],
+            [
+              29.270110130310055,
+              40.84576179694414
+            ],
+            [
+              29.265711307525635,
+              40.84124910613219
+            ],
+            [
+              29.271526336669922,
+              40.834869130524105
+            ],
+            [
+              29.275871515274044,
+              40.83385444676883
+            ],
+            [
+              29.2795729637146,
+              40.83200362360259
+            ],
+            [
+              29.281868934631348,
+              40.8322552736469
+            ],
+            [
+              29.284003973007202,
+              40.83366774326622
+            ],
+            [
+              29.289132356643677,
+              40.8390656975891
+            ],
+            [
+              29.292629957199093,
+              40.84261268539106
+            ],
+            [
+              29.293617010116574,
+              40.84670325484787
+            ],
+            [
+              29.294207096099854,
+              40.848675403480414
+            ],
+            [
+              29.2894971370697,
+              40.85450223223646
+            ],
+            [
+              29.288660287857052,
+              40.85594668711933
+            ],
+            [
+              29.287372827529904,
+              40.85613332786835
+            ],
+            [
+              29.284003973007202,
+              40.855484140388064
+            ],
+            [
+              29.283961057662964,
+              40.854972900769795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Odessos Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.897913455963135,
+              43.19310786787254
+            ],
+            [
+              27.900413274765015,
+              43.19262291011114
+            ],
+            [
+              27.900391817092896,
+              43.19174684761245
+            ],
+            [
+              27.9017436504364,
+              43.19148871965631
+            ],
+            [
+              27.901625633239746,
+              43.190518774547556
+            ],
+            [
+              27.903857231140137,
+              43.1906282852511
+            ],
+            [
+              27.904340028762817,
+              43.19002597394994
+            ],
+            [
+              27.904565334320065,
+              43.18932978854701
+            ],
+            [
+              27.902612686157227,
+              43.18810948935715
+            ],
+            [
+              27.900531291961666,
+              43.18778094309918
+            ],
+            [
+              27.89716243743896,
+              43.18778094309918
+            ],
+            [
+              27.897334098815914,
+              43.19045619691443
+            ],
+            [
+              27.8973126411438,
+              43.19313133347294
+            ],
+            [
+              27.897913455963135,
+              43.19310786787254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Santierul Naval Constanta Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.647279739379883,
+              44.173462994871116
+            ],
+            [
+              28.636722564697262,
+              44.16687563863753
+            ],
+            [
+              28.6347484588623,
+              44.15751663402477
+            ],
+            [
+              28.633460998535156,
+              44.146862802512736
+            ],
+            [
+              28.63389015197754,
+              44.140272475899486
+            ],
+            [
+              28.64882469177246,
+              44.14058045147323
+            ],
+            [
+              28.673887252807614,
+              44.14347534334119
+            ],
+            [
+              28.675861358642575,
+              44.14969580090781
+            ],
+            [
+              28.661184310913086,
+              44.161642167725105
+            ],
+            [
+              28.662128448486328,
+              44.16946141758623
+            ],
+            [
+              28.656206130981445,
+              44.17426327774747
+            ],
+            [
+              28.647279739379883,
+              44.173462994871116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Sjsco Src Sevmorsudoremont Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.4378981590271,
+              44.572769172971654
+            ],
+            [
+              33.435763120651245,
+              44.57441234964646
+            ],
+            [
+              33.42867136001587,
+              44.575268311661326
+            ],
+            [
+              33.42897176742554,
+              44.57633824646238
+            ],
+            [
+              33.430044651031494,
+              44.57651401958266
+            ],
+            [
+              33.430055379867554,
+              44.57950208133466
+            ],
+            [
+              33.42796325683594,
+              44.58085468284076
+            ],
+            [
+              33.42542052268982,
+              44.58106100911794
+            ],
+            [
+              33.424873352050774,
+              44.58164941707202
+            ],
+            [
+              33.42657923698425,
+              44.58228366832733
+            ],
+            [
+              33.42763066291809,
+              44.582451781957815
+            ],
+            [
+              33.43226552009582,
+              44.57935688495252
+            ],
+            [
+              33.43570947647095,
+              44.57684263746924
+            ],
+            [
+              33.44010829925537,
+              44.573770369867134
+            ],
+            [
+              33.438531160354614,
+              44.572509317524975
+            ],
+            [
+              33.4378981590271,
+              44.572769172971654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Euro - Cynk Gdynia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.51247787475586,
+              54.54199903267644
+            ],
+            [
+              18.50462436676025,
+              54.54441381989233
+            ],
+            [
+              18.49921703338623,
+              54.53980817424605
+            ],
+            [
+              18.514022827148438,
+              54.52827933381645
+            ],
+            [
+              18.520803451538086,
+              54.525888497101455
+            ],
+            [
+              18.533935546875,
+              54.52708393295957
+            ],
+            [
+              18.543806076049805,
+              54.529972758449354
+            ],
+            [
+              18.54569435119629,
+              54.52763182936372
+            ],
+            [
+              18.545994758605957,
+              54.52342280010088
+            ],
+            [
+              18.561315536499023,
+              54.524394153057514
+            ],
+            [
+              18.560199737548825,
+              54.531715916316635
+            ],
+            [
+              18.555822372436523,
+              54.534828513087334
+            ],
+            [
+              18.548011779785156,
+              54.53388230877868
+            ],
+            [
+              18.53921413421631,
+              54.53358350286097
+            ],
+            [
+              18.533506393432617,
+              54.536222879456666
+            ],
+            [
+              18.52312088012695,
+              54.53881229062087
+            ],
+            [
+              18.51698398590088,
+              54.5406795524823
+            ],
+            [
+              18.51247787475586,
+              54.54199903267644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "NAVAL SHIPYARD GDYNIA (POLAND)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.525116443634033,
+              54.54285791666964
+            ],
+            [
+              18.525288105010986,
+              54.539721035399076
+            ],
+            [
+              18.53889226913452,
+              54.536770653211676
+            ],
+            [
+              18.53945016860962,
+              54.538339237385266
+            ],
+            [
+              18.537583351135254,
+              54.54013183119156
+            ],
+            [
+              18.53022336959839,
+              54.542932601379924
+            ],
+            [
+              18.525116443634033,
+              54.54285791666964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Western Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.164624691009518,
+              55.64374128172377
+            ],
+            [
+              21.162017583847046,
+              55.64592695961284
+            ],
+            [
+              21.16442084312439,
+              55.6464597379484
+            ],
+            [
+              21.163959503173828,
+              55.647470785997726
+            ],
+            [
+              21.160730123519897,
+              55.647682678986996
+            ],
+            [
+              21.15819811820984,
+              55.650437183517134
+            ],
+            [
+              21.15239381790161,
+              55.65952869995898
+            ],
+            [
+              21.15441083908081,
+              55.66037600405015
+            ],
+            [
+              21.159582138061523,
+              55.66027917022515
+            ],
+            [
+              21.165268421173096,
+              55.66000077164389
+            ],
+            [
+              21.16739273071289,
+              55.657119835285364
+            ],
+            [
+              21.173722743988037,
+              55.64548499026626
+            ],
+            [
+              21.173100471496582,
+              55.644576818420894
+            ],
+            [
+              21.164968013763428,
+              55.64336588986846
+            ],
+            [
+              21.164624691009518,
+              55.64374128172377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "TOSMARE SHIPYARD (LATVIA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.04608178138733,
+              56.543007090590294
+            ],
+            [
+              21.045759916305542,
+              56.54147509420549
+            ],
+            [
+              21.04185461997986,
+              56.541788596579735
+            ],
+            [
+              21.042433977127075,
+              56.54242742357253
+            ],
+            [
+              21.037520170211792,
+              56.54265810844885
+            ],
+            [
+              21.036651134490967,
+              56.54326734636455
+            ],
+            [
+              21.037627458572388,
+              56.54716505403066
+            ],
+            [
+              21.037713289260864,
+              56.54756130836121
+            ],
+            [
+              21.039365530014038,
+              56.54730108210422
+            ],
+            [
+              21.043163537979126,
+              56.546934396614894
+            ],
+            [
+              21.04332447052002,
+              56.54516006181509
+            ],
+            [
+              21.046360731124878,
+              56.544793355587046
+            ],
+            [
+              21.04608178138733,
+              56.543007090590294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "RIGA SHIPYARD (LATVIA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.113295078277588,
+              57.02584848584017
+            ],
+            [
+              24.113788604736328,
+              57.024517105479674
+            ],
+            [
+              24.11595582962036,
+              57.02432440174028
+            ],
+            [
+              24.116653203964233,
+              57.02434192030332
+            ],
+            [
+              24.119378328323364,
+              57.026461605495875
+            ],
+            [
+              24.120311737060547,
+              57.02619300193909
+            ],
+            [
+              24.118670225143433,
+              57.02430104364339
+            ],
+            [
+              24.120161533355713,
+              57.02400322662138
+            ],
+            [
+              24.122629165649414,
+              57.02567330693819
+            ],
+            [
+              24.12387371063232,
+              57.02727908263874
+            ],
+            [
+              24.124646186828613,
+              57.028873111356724
+            ],
+            [
+              24.12420630455017,
+              57.03033278464974
+            ],
+            [
+              24.124141931533813,
+              57.03154718914001
+            ],
+            [
+              24.12412047386169,
+              57.03224778906439
+            ],
+            [
+              24.126309156417847,
+              57.03226530389329
+            ],
+            [
+              24.126877784729004,
+              57.031979227321145
+            ],
+            [
+              24.12609457969665,
+              57.03069477475491
+            ],
+            [
+              24.126352071762085,
+              57.03012259522874
+            ],
+            [
+              24.12609457969665,
+              57.02919424439991
+            ],
+            [
+              24.127585887908936,
+              57.02882640086477
+            ],
+            [
+              24.126373529434204,
+              57.02702216318828
+            ],
+            [
+              24.124882221221924,
+              57.02504849546439
+            ],
+            [
+              24.12670612335205,
+              57.02479740004465
+            ],
+            [
+              24.128969907760617,
+              57.02660174571151
+            ],
+            [
+              24.13121223449707,
+              57.02836513160442
+            ],
+            [
+              24.131512641906735,
+              57.03030359174568
+            ],
+            [
+              24.12996768951416,
+              57.03231201006329
+            ],
+            [
+              24.126255512237545,
+              57.03351467372406
+            ],
+            [
+              24.121792316436768,
+              57.03370149177097
+            ],
+            [
+              24.119410514831543,
+              57.0334562928918
+            ],
+            [
+              24.1199254989624,
+              57.02884391730613
+            ],
+            [
+              24.113295078277588,
+              57.02584848584017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Blrt Grupp Tallinn Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.6468186378479,
+              59.46662305301694
+            ],
+            [
+              24.646003246307373,
+              59.46299815635606
+            ],
+            [
+              24.646689891815186,
+              59.46152083132534
+            ],
+            [
+              24.64784860610962,
+              59.46108470827108
+            ],
+            [
+              24.64930772781372,
+              59.461346382778885
+            ],
+            [
+              24.650241136550903,
+              59.460877547849094
+            ],
+            [
+              24.64879274368286,
+              59.45963455865539
+            ],
+            [
+              24.65457558631897,
+              59.45685947487873
+            ],
+            [
+              24.656345844268795,
+              59.45571993442715
+            ],
+            [
+              24.659886360168453,
+              59.45405144706404
+            ],
+            [
+              24.66179609298706,
+              59.452230193670594
+            ],
+            [
+              24.66583013534546,
+              59.45350617190535
+            ],
+            [
+              24.668169021606445,
+              59.45482572268058
+            ],
+            [
+              24.670100212097168,
+              59.45591622164502
+            ],
+            [
+              24.6628475189209,
+              59.45962365503918
+            ],
+            [
+              24.66434955596924,
+              59.46200056018589
+            ],
+            [
+              24.6468186378479,
+              59.46662305301694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Blrt Grupp Turku Repair Yard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.03926086425781,
+              60.449916635373405
+            ],
+            [
+              22.040205001831055,
+              60.45072090181158
+            ],
+            [
+              22.039775848388672,
+              60.451292342179464
+            ],
+            [
+              22.03456163406372,
+              60.45137699915673
+            ],
+            [
+              22.03460454940796,
+              60.45192726413063
+            ],
+            [
+              22.036471366882324,
+              60.4519590099024
+            ],
+            [
+              22.03604221343994,
+              60.45303834768059
+            ],
+            [
+              22.028424739837646,
+              60.45367323550104
+            ],
+            [
+              22.027394771575928,
+              60.45206482891751
+            ],
+            [
+              22.027437686920166,
+              60.45012828636682
+            ],
+            [
+              22.03080654144287,
+              60.44926050852973
+            ],
+            [
+              22.037715911865234,
+              60.45029760616857
+            ],
+            [
+              22.03926086425781,
+              60.449916635373405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "CL Marine Limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.639748811721795,
+              10.680872190529179
+            ],
+            [
+              -61.63993120193482,
+              10.680018209890623
+            ],
+            [
+              -61.64105772972106,
+              10.679902237026173
+            ],
+            [
+              -61.642463207244866,
+              10.67982843608938
+            ],
+            [
+              -61.64437294006348,
+              10.680461014965834
+            ],
+            [
+              -61.645241975784295,
+              10.680745675030497
+            ],
+            [
+              -61.645349264144905,
+              10.680102553764232
+            ],
+            [
+              -61.64678692817688,
+              10.67954377516528
+            ],
+            [
+              -61.646926403045654,
+              10.678352413589097
+            ],
+            [
+              -61.64842844009399,
+              10.678500016161793
+            ],
+            [
+              -61.64838552474975,
+              10.680903819395622
+            ],
+            [
+              -61.64823532104492,
+              10.682042456394107
+            ],
+            [
+              -61.646883487701416,
+              10.683202174875369
+            ],
+            [
+              -61.64005994796753,
+              10.683086203226502
+            ],
+            [
+              -61.639748811721795,
+              10.680872190529179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ciramar Shipyard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.5201244354248,
+              18.214319883971186
+            ],
+            [
+              -70.52085399627686,
+              18.215705889348687
+            ],
+            [
+              -70.51794648170471,
+              18.216704621677916
+            ],
+            [
+              -70.51690578460693,
+              18.217010354919022
+            ],
+            [
+              -70.51646590232849,
+              18.217244750040265
+            ],
+            [
+              -70.51562905311584,
+              18.216531372602958
+            ],
+            [
+              -70.51488876342773,
+              18.216755577255388
+            ],
+            [
+              -70.51386952400206,
+              18.215339006646026
+            ],
+            [
+              -70.51345109939575,
+              18.21493135829191
+            ],
+            [
+              -70.51429867744446,
+              18.21352496414392
+            ],
+            [
+              -70.51552176475525,
+              18.213718598795147
+            ],
+            [
+              -70.51612257957458,
+              18.213178459493776
+            ],
+            [
+              -70.51656246185303,
+              18.21311731154277
+            ],
+            [
+              -70.5169916152954,
+              18.214686768821302
+            ],
+            [
+              -70.51795721054076,
+              18.214849828506544
+            ],
+            [
+              -70.51984548568726,
+              18.213891850668983
+            ],
+            [
+              -70.5201244354248,
+              18.214319883971186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Texas City (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.89282131195068,
+              29.363045738795815
+            ],
+            [
+              -94.88938808441162,
+              29.364467005663816
+            ],
+            [
+              -94.88867998123169,
+              29.36800138594946
+            ],
+            [
+              -94.88883018493652,
+              29.37099335802396
+            ],
+            [
+              -94.88859415054321,
+              29.374770597185435
+            ],
+            [
+              -94.88900184631348,
+              29.377949353210763
+            ],
+            [
+              -94.8895812034607,
+              29.378678583239882
+            ],
+            [
+              -94.89462375640869,
+              29.378585092502497
+            ],
+            [
+              -94.89398002624512,
+              29.376995736827176
+            ],
+            [
+              -94.89367961883544,
+              29.375443753805733
+            ],
+            [
+              -94.89342212677002,
+              29.36815098664144
+            ],
+            [
+              -94.89367961883544,
+              29.36527113471042
+            ],
+            [
+              -94.89511728286743,
+              29.364317399559194
+            ],
+            [
+              -94.89331483840942,
+              29.362559511366168
+            ],
+            [
+              -94.89282131195068,
+              29.363045738795815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Amelia (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.13055646419525,
+              29.66829131935588
+            ],
+            [
+              -91.13187074661255,
+              29.66751756170284
+            ],
+            [
+              -91.1314845085144,
+              29.666338269011327
+            ],
+            [
+              -91.12978935241699,
+              29.664338567196296
+            ],
+            [
+              -91.12961232662201,
+              29.663760557401158
+            ],
+            [
+              -91.12874329090118,
+              29.662585882100792
+            ],
+            [
+              -91.12777769565582,
+              29.66044159816664
+            ],
+            [
+              -91.12691938877106,
+              29.658875309714876
+            ],
+            [
+              -91.12618446350098,
+              29.657924336973405
+            ],
+            [
+              -91.1261522769928,
+              29.657542080691933
+            ],
+            [
+              -91.1252510547638,
+              29.656292745155497
+            ],
+            [
+              -91.1246395111084,
+              29.655388365723454
+            ],
+            [
+              -91.12460732460022,
+              29.65474503932468
+            ],
+            [
+              -91.1242425441742,
+              29.65370079061746
+            ],
+            [
+              -91.12422108650208,
+              29.65274976897453
+            ],
+            [
+              -91.12375974655151,
+              29.652134397240317
+            ],
+            [
+              -91.121506690979,
+              29.64632547564423
+            ],
+            [
+              -91.1200475692749,
+              29.644451257666816
+            ],
+            [
+              -91.11892104148865,
+              29.642800798019632
+            ],
+            [
+              -91.11858844757079,
+              29.64035769509216
+            ],
+            [
+              -91.11603498458862,
+              29.638865694684977
+            ],
+            [
+              -91.11101388931273,
+              29.639089496155336
+            ],
+            [
+              -91.10865354537964,
+              29.640823940685774
+            ],
+            [
+              -91.10695838928223,
+              29.6427821486035
+            ],
+            [
+              -91.10657215118408,
+              29.643602719645592
+            ],
+            [
+              -91.11528396606444,
+              29.64669845018338
+            ],
+            [
+              -91.13055646419525,
+              29.66829131935588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Morgan City (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.1136746406555,
+              29.646773044925414
+            ],
+            [
+              -91.11010193824768,
+              29.64493613332513
+            ],
+            [
+              -91.106196641922,
+              29.643593395012243
+            ],
+            [
+              -91.1055850982666,
+              29.645374384314735
+            ],
+            [
+              -91.10505938529968,
+              29.64684763961213
+            ],
+            [
+              -91.10474824905396,
+              29.64778939277807
+            ],
+            [
+              -91.10397577285767,
+              29.648600598837962
+            ],
+            [
+              -91.10331058502197,
+              29.649700844886485
+            ],
+            [
+              -91.10268831253052,
+              29.65160293680555
+            ],
+            [
+              -91.10198020935059,
+              29.652656531074854
+            ],
+            [
+              -91.10095024108887,
+              29.65564942453831
+            ],
+            [
+              -91.10083758831024,
+              29.65656312505695
+            ],
+            [
+              -91.10078930854797,
+              29.657784487282786
+            ],
+            [
+              -91.10071957111359,
+              29.658348546512592
+            ],
+            [
+              -91.10340178012848,
+              29.65849771867279
+            ],
+            [
+              -91.10370755195618,
+              29.6563393624317
+            ],
+            [
+              -91.10401332378387,
+              29.65486158426718
+            ],
+            [
+              -91.10549926757812,
+              29.65256329308877
+            ],
+            [
+              -91.1092758178711,
+              29.650446767570255
+            ],
+            [
+              -91.11458659172058,
+              29.64751898930537
+            ],
+            [
+              -91.1136746406555,
+              29.646773044925414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Fourchon (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.21909356117249,
+              29.133537108384026
+            ],
+            [
+              -90.21870195865631,
+              29.131719020692078
+            ],
+            [
+              -90.21783292293549,
+              29.12922612653889
+            ],
+            [
+              -90.21722674369812,
+              29.127379846421082
+            ],
+            [
+              -90.21702289581299,
+              29.126653508861974
+            ],
+            [
+              -90.21680027246475,
+              29.125884991277783
+            ],
+            [
+              -90.21645694971085,
+              29.124926679292596
+            ],
+            [
+              -90.21607875823975,
+              29.12439480057176
+            ],
+            [
+              -90.21614849567412,
+              29.12398241693898
+            ],
+            [
+              -90.2158722281456,
+              29.123811370969722
+            ],
+            [
+              -90.2156549692154,
+              29.123881663868247
+            ],
+            [
+              -90.21535992622375,
+              29.124413545243037
+            ],
+            [
+              -90.2143594622612,
+              29.124875131695557
+            ],
+            [
+              -90.21533578634262,
+              29.127302526860422
+            ],
+            [
+              -90.21612167358398,
+              29.128450599207696
+            ],
+            [
+              -90.2175298333168,
+              29.13015394007137
+            ],
+            [
+              -90.21637916564941,
+              29.130428065194533
+            ],
+            [
+              -90.21738767623901,
+              29.133628480499336
+            ],
+            [
+              -90.21909356117249,
+              29.133537108384026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Lockport Repair (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.49303561449051,
+              29.615454713374984
+            ],
+            [
+              -90.49338430166245,
+              29.615104941314183
+            ],
+            [
+              -90.49225240945815,
+              29.614123241246453
+            ],
+            [
+              -90.49189031124114,
+              29.613845751845677
+            ],
+            [
+              -90.49172937870024,
+              29.613454000802935
+            ],
+            [
+              -90.49123853445053,
+              29.612787087787677
+            ],
+            [
+              -90.49115270376205,
+              29.612379009466128
+            ],
+            [
+              -90.49106419086455,
+              29.612001244061762
+            ],
+            [
+              -90.49091666936874,
+              29.611560515967494
+            ],
+            [
+              -90.49094617366791,
+              29.610767666925927
+            ],
+            [
+              -90.49083352088928,
+              29.61035958042979
+            ],
+            [
+              -90.49098908901215,
+              29.60963201640745
+            ],
+            [
+              -90.4911071062088,
+              29.608885791443154
+            ],
+            [
+              -90.49111247062683,
+              29.60823284006871
+            ],
+            [
+              -90.49115538597107,
+              29.607799091461036
+            ],
+            [
+              -90.490243434906,
+              29.6079156907325
+            ],
+            [
+              -90.48950850963593,
+              29.610168362188965
+            ],
+            [
+              -90.49014687538147,
+              29.612481612171006
+            ],
+            [
+              -90.49111783504486,
+              29.61378745565596
+            ],
+            [
+              -90.49303561449051,
+              29.615454713374984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Larose (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.39355516433716,
+              29.55265352558165
+            ],
+            [
+              -90.39396554231644,
+              29.552532195929604
+            ],
+            [
+              -90.39403796195984,
+              29.552242870786845
+            ],
+            [
+              -90.39385825395584,
+              29.551990877245657
+            ],
+            [
+              -90.394786298275,
+              29.55164321845831
+            ],
+            [
+              -90.39527177810669,
+              29.552049209139795
+            ],
+            [
+              -90.39596110582352,
+              29.5517248833816
+            ],
+            [
+              -90.39702594280243,
+              29.55120922661581
+            ],
+            [
+              -90.39758920669556,
+              29.550497569291885
+            ],
+            [
+              -90.4026746749878,
+              29.549174573342622
+            ],
+            [
+              -90.4025673866272,
+              29.544871800102925
+            ],
+            [
+              -90.40232062339783,
+              29.54445177988759
+            ],
+            [
+              -90.39874792098998,
+              29.544675790886277
+            ],
+            [
+              -90.39323329925537,
+              29.54986524005526
+            ],
+            [
+              -90.39174199104309,
+              29.551685217569954
+            ],
+            [
+              -90.39355516433716,
+              29.55265352558165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Quick Repair (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.0763088464737,
+              29.89124354008175
+            ],
+            [
+              -90.07690697908401,
+              29.891104015828844
+            ],
+            [
+              -90.07755070924759,
+              29.89256901074356
+            ],
+            [
+              -90.07826954126357,
+              29.893975850671453
+            ],
+            [
+              -90.07859408855438,
+              29.894410688086115
+            ],
+            [
+              -90.08001297712326,
+              29.894161877605125
+            ],
+            [
+              -90.08040457963942,
+              29.896022127844144
+            ],
+            [
+              -90.08085787296295,
+              29.897554482895444
+            ],
+            [
+              -90.08170008659363,
+              29.899665792378098
+            ],
+            [
+              -90.08258253335953,
+              29.90246995144356
+            ],
+            [
+              -90.0831028819084,
+              29.903711568805452
+            ],
+            [
+              -90.0820568203926,
+              29.904009182653045
+            ],
+            [
+              -90.08251279592514,
+              29.90559256637839
+            ],
+            [
+              -90.08063793182373,
+              29.9059994524048
+            ],
+            [
+              -90.07940411567688,
+              29.902204885058637
+            ],
+            [
+              -90.07723689079285,
+              29.895952369086828
+            ],
+            [
+              -90.07561683654785,
+              29.891503984831314
+            ],
+            [
+              -90.0763088464737,
+              29.89124354008175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bollinger Shipyards, Algiers (USA)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.0553098320961,
+              29.953570402040217
+            ],
+            [
+              -90.05626201629639,
+              29.953565754145817
+            ],
+            [
+              -90.05622178316116,
+              29.951741438814956
+            ],
+            [
+              -90.05665093660355,
+              29.951653127159762
+            ],
+            [
+              -90.05665093660355,
+              29.95092571501611
+            ],
+            [
+              -90.05682528018951,
+              29.950788598392972
+            ],
+            [
+              -90.05670458078384,
+              29.949875257417897
+            ],
+            [
+              -90.05670994520187,
+              29.948734150417135
+            ],
+            [
+              -90.05667507648467,
+              29.94835765195543
+            ],
+            [
+              -90.05620837211609,
+              29.94836230009328
+            ],
+            [
+              -90.05672872066498,
+              29.947781281178667
+            ],
+            [
+              -90.05652487277985,
+              29.94584762578407
+            ],
+            [
+              -90.05632638931274,
+              29.94268211357121
+            ],
+            [
+              -90.05476266145705,
+              29.940943595578517
+            ],
+            [
+              -90.05412966012955,
+              29.94096916223972
+            ],
+            [
+              -90.05511403083801,
+              29.94703292381487
+            ],
+            [
+              -90.0553098320961,
+              29.953570402040217
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
