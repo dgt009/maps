@@ -7,8 +7,7 @@
         "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name ": "Zhoushan Longshan Shipyard",
-        "name": ""
+        "name ": "Zhoushan Longshan Shipyard"
       },
       "geometry": {
         "type": "Point",
